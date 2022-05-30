@@ -22,3 +22,6 @@ git commit -> confirma los cambios/en caso de utilizar el comando sin -m "" para
 git log <archivo> -> muestra todos los commits realizados hasta el momento en ese archivo
 git show <archivo> -> muestra a detalle los cambios realizados
 git diff <id> <id>  -> permite ver las diferencias entre dos commits
+
+git reset <id> --hard -> todo vuelve a la version anterior
+git reset <id> --soft -> todo vuelve a la version anterior pero los cambios que se encuentran en staying permanecen en staying listos para el commit siguiente
