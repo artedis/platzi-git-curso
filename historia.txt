@@ -15,7 +15,7 @@ cat <archivo> -> Muestra el contenido del archivo
 rm <archivo>  -> Elimina el archivo del directorio / ser precavido con lo que se elimina
 pwd -> muestra la dirección actual de la consola
 git init -> inicializa un repositorio vacio
-touch <archiv> -> Crea un archivo nuevo vacio
+touch <archivo> -> Crea un archivo nuevo vacio
 git status -> muestra el estatus actual del repositorio
 git add . -> agrega todos los cambios realizados a la memoria staying (memoria de uso de git)
 git commit -> confirma los cambios/en caso de utilizar el comando sin -m "" para salir de la consola se debe pulsar esc + shift + ZZ
@@ -25,3 +25,6 @@ git diff <id> <id>  -> permite ver las diferencias entre dos commits
 
 git reset <id> --hard -> todo vuelve a la version anterior
 git reset <id> --soft -> todo vuelve a la version anterior pero los cambios que se encuentran en staying permanecen en staying listos para el commit siguiente
+
+git checkout <id> <archivo> -> permite cargar una versión anterior de un archivo
+/en caso de descartar los cambios se utliza git checkout <branch> <archivo> para tomar la version que tiene esa rama
