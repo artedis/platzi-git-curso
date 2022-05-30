@@ -1,3 +1,5 @@
 Este es un documento de texto plano
 
 primer archivo agregado al repositorio local
+
+se ha realizado una nueva modificación al archivo texto
