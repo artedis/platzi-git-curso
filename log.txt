@@ -1,0 +1,35 @@
+commit 043d1fe71d34b35428f02ea7e65601e34c65f1d2
+Author: AZARQUIEL ARTEDIS DIAZ RAMIREZ <adiaz106@unab.edu.co>
+Date:   Sun May 29 22:20:30 2022 -0500
+
+    se ha actualizado el blog
+
+commit 4d30677c49d0c1f1a29cfdbe18261b63d044213f
+Author: AZARQUIEL ARTEDIS DIAZ RAMIREZ <adiaz106@unab.edu.co>
+Date:   Sun May 29 22:10:42 2022 -0500
+
+    Se crea un proyecto html, comando reset
+
+commit ece6bb9753bcb93afad851fc9d9a0125c8b36e23
+Author: AZARQUIEL ARTEDIS DIAZ RAMIREZ <adiaz106@unab.edu.co>
+Date:   Sun May 29 22:02:48 2022 -0500
+
+    se realizaron apuntes de cada comando usado hasta la clase 12
+
+commit 31584dd89a075c8d697024bedb67d4c9d0140ac6
+Author: AZARQUIEL ARTEDIS DIAZ RAMIREZ <adiaz106@unab.edu.co>
+Date:   Sun May 29 21:40:20 2022 -0500
+
+    se agregó un nuevo parrafo al final
+
+commit 7b648846975bddd53f47d1defaba72ec227cb998
+Author: AZARQUIEL ARTEDIS DIAZ RAMIREZ <adiaz106@unab.edu.co>
+Date:   Sun May 29 21:35:13 2022 -0500
+
+    actualización del txt
+
+commit 0ea594694d9af68202d264bebdc82803e4c13e94
+Author: AZARQUIEL ARTEDIS DIAZ RAMIREZ <adiaz106@unab.edu.co>
+Date:   Sun May 29 18:44:04 2022 -0500
+
+    crear el primer archivo de texto
