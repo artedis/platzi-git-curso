@@ -6,3 +6,19 @@ se ha realizado una nueva modificación al archivo texto
 
 Se agrega un nuevo parrafo de
 información
+
+ls     -> lista  de archivos dentro de un directorio
+ls -a  -> lista con archivos ocultos incluidos
+ls -al -> lista con archivos ocultos incluidos y en formato lista
+
+cat <archivo> -> Muestra el contenido del archivo
+rm <archivo>  -> Elimina el archivo del directorio / ser precavido con lo que se elimina
+pwd -> muestra la dirección actual de la consola
+git init -> inicializa un repositorio vacio
+touch <archiv> -> Crea un archivo nuevo vacio
+git status -> muestra el estatus actual del repositorio
+git add . -> agrega todos los cambios realizados a la memoria staying (memoria de uso de git)
+git commit -> confirma los cambios/en caso de utilizar el comando sin -m "" para salir de la consola se debe pulsar esc + shift + ZZ
+git log <archivo> -> muestra todos los commits realizados hasta el momento en ese archivo
+git show <archivo> -> muestra a detalle los cambios realizados
+git diff <id> <id>  -> permite ver las diferencias entre dos commits
